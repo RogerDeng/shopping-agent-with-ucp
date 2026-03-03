@@ -1,6 +1,6 @@
 **[ English ]** | [ 繁體中文 ](./docs/README.zh-TW.md) | [ 简体中文 ](./docs/README.zh-CN.md)
 
-# UCP Shopping Agent
+# Shopping Agent with UCP
 
 [![WordPress](https://img.shields.io/badge/WordPress-5.8+-blue.svg)](https://wordpress.org/)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-5.0+-purple.svg)](https://woocommerce.com/)
